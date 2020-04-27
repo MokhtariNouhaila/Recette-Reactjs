@@ -15,10 +15,7 @@ import React, { Component } from 'react'
   }
   
  
-  recipes = [{id: 1, titre: 'crepe', 
-     content: ["250g farine","4 oeuf","1/2litre lait","14g sucre","50g beurre"]},
-  {id: 2, titre: 'milk-shake', 
-  content: ["50 cl de lait entier","Crème chantilly","1 l de glace vanille","chocolat"]}];
+  recipes = [];
 
  Eng = (currentRecipe) => { 
       let recipes = this.state.recipes;
