@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Recette-Reactjs/static/css/main.5ab2d6e7.chunk.css",
+    "main.js": "/Recette-Reactjs/static/js/main.9323449e.chunk.js",
+    "main.js.map": "/Recette-Reactjs/static/js/main.9323449e.chunk.js.map",
+    "runtime-main.js": "/Recette-Reactjs/static/js/runtime-main.8ddb4d3e.js",
+    "runtime-main.js.map": "/Recette-Reactjs/static/js/runtime-main.8ddb4d3e.js.map",
+    "static/js/2.fe3c042f.chunk.js": "/Recette-Reactjs/static/js/2.fe3c042f.chunk.js",
+    "static/js/2.fe3c042f.chunk.js.map": "/Recette-Reactjs/static/js/2.fe3c042f.chunk.js.map",
+    "index.html": "/Recette-Reactjs/index.html",
+    "precache-manifest.1766833f8b63edb5e68cfcca28a564a5.js": "/Recette-Reactjs/precache-manifest.1766833f8b63edb5e68cfcca28a564a5.js",
+    "service-worker.js": "/Recette-Reactjs/service-worker.js",
+    "static/css/main.5ab2d6e7.chunk.css.map": "/Recette-Reactjs/static/css/main.5ab2d6e7.chunk.css.map",
+    "static/js/2.fe3c042f.chunk.js.LICENSE.txt": "/Recette-Reactjs/static/js/2.fe3c042f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Recette-Reactjs/static/media/background.aa89c7e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ddb4d3e.js",
+    "static/js/2.fe3c042f.chunk.js",
+    "static/css/main.5ab2d6e7.chunk.css",
+    "static/js/main.9323449e.chunk.js"
+  ]
+}
